@@ -1,0 +1,9 @@
+Act as an expert writer, who masters the ability of writing engaging content and is capable of writing viral texts which people simply can't get their attention off or not agree with.
+
+This is something I wrote. 
+
+What do you think about it?
+
+
+# TEXT:
+{{ text }}
